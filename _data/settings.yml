@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Brian Barr's Portfolio
+description: Thinker // Designer // Citizen
+email: brian.barr47@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -19,7 +19,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
+  description: 'The portfolio of Houston, TX based design student, Brian Barr.'
   rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
   rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
 
@@ -39,7 +39,7 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
+  **Brian specializes in making things** for human people.
   Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
   but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
   and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
@@ -59,7 +59,7 @@ skills:
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Three-Bike Bike Rack for METRO Buses, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
