@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Brian Barr's Portfolio
+title: Brian Barr
 description: Thinker // Designer // Citizen
 email: brian.barr47@gmail.com
 
@@ -101,7 +101,7 @@ clients:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
+- {icon: 'twitter', link: 'https://twitter.com/raising_thebarr'}
 - {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
 - {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
 - {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
