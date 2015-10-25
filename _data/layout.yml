@@ -12,7 +12,7 @@ avatar: "travitar.jpg"
 
 accent: "#c99065"
 
-textColor: "#666"
+textColor: "#333"
 headlineColor: "#333"
-bgcolor: "#666"
+bgcolor: "#e5eaee"
 documentBackgroundColor: "#fff"
