@@ -8,6 +8,8 @@ In the Fall of 2013 I worked with a team of Rice University freshmen and the Hou
 To tackle this issue, we researched the current system pretty extensively before brainstorming and eventually prototyping. We spent several hours on METRO buses interviewing riders and even traveled to the bus depot to gain insights from the METRO mechanics on common problems with the current bike rack system. From there we brainstormed ideas on notecards before screening and scoring the concepts using a Pugh Matrix. Eventually we settled on a collapsible system that would keep the rack from extending too far in front of the bus, thus hampering its turning radius.
 
 Our first prototype was made from K'nex, a childrens toy. The second prototype was made from PVC, and our third was made using steel and 3D printed plastic for handles. 
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
 ![Typo International](assets/img/work/proj-1/img2.jpg)
 ![Typo International](assets/img/work/proj-1/img3.jpg)
 ![Typo International](assets/img/work/proj-1/img4.jpg)
