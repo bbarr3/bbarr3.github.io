@@ -13,5 +13,9 @@ Our first prototype was made from K'nex, a childrens toy. The second prototype w
 ![PVC Prototype](assets/img/work/proj-1/img3.jpg)
 ![Steel Prototype](assets/img/work/proj-1/img4.jpg)
 
-This design won the Texas Department of Transportation College Challenge, as well as 3rd Prize in the 2014 Odebretch Award for Sustainable Design, and Most Outstanding Freshman Design at the 2014 Rice Engineering Showcase.
-![Typo International](assets/img/work/proj-1/img5.jpg)
+This design won the Texas Department of Transportation College Challenge, as well as the $10,000 3rd Prize in the 2014 Odebretch Award for Sustainable Design, and Most Outstanding Freshman Design at the 2014 Rice Engineering Showcase.
+
+![TxDOT Award](assets/img/work/proj-1/img5.jpg)
+*TxDOT Officials Present Award to Team*
+
+For more information, read this [Rice News article](http://news.rice.edu/2014/01/13/rice-engineering-students-rack-up-a-win/) or this [Houston Chronicle article](http://www.houstonchronicle.com/news/columnists/begley/article/Tackling-even-the-simplest-problem-takes-5139845.php) about our project.
