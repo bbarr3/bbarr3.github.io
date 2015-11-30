@@ -60,7 +60,7 @@ skills:
 # Work Section
 
 projects:
-- {name: Three-Bike Bike Rack for METRO Buses, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Three-Bike Bike Rack for METRO Buses, folder: 'proj-1', file: '_includes/work/proj-1.html'}
 - {name: The Coaster Campaign, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Voter Registration Jar Opener, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Sprawl Coasters, folder: 'proj-4', file: 'work/proj-4.html'}
