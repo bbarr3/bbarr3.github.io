@@ -8,3 +8,7 @@ There were three steps to this process: designing the coasters, designing the po
 
 ###The Coasters
 
+I created the coasters by repeatedly laser etching the surface of a rubber block in order to create a stamp. The ink was then rolled on the blocks and pressed against disposable fiberboard coasters.
+
+![Coaster Campaign](assets/img/work/proj-2/img1.jpg)
+![Coaster Campaign](assets/img/work/proj-2/img2.jpg)
