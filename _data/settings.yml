@@ -84,12 +84,12 @@ clients:
 - {avatar: 'face-atariboy.jpg',
   name: 'General Manager',
   title: '2013 - Present, Houston, TX',
-  quote: '<p>Grew student-run bike shop from 6 employees to 15 while growing revenue from $16,000 to $36,000 per year.</p>',
+  quote: '<p>Grew student-run bike shop from 6 employees to 15 while growing revenue from $16,000 to $36,000 per year.</p><p>Managed a change in location and business model to ensure profitability and growth for years to come.</p><p>Built and repaired hundreds of bicycles per year as well as maintained a fleet of more than 35 rental bicycles.</p>',
   logo: 'logo2.png'}
 - {avatar: 'face-jackiesaik.jpg',
   name: 'Summer Intern',
   title: '2014, Washington, DC',
-  quote: '<p>Redesigned a portion of the EPA.gov site to increase accessibility and transparency of information.</p><p>Measured impact of US energy policy on deforestation rates usign custom built Google Earth API Script.</p>',
+  quote: '<p>Redesigned a portion of the EPA.gov site to increase accessibility and transparency of information.</p><p>Measured impact of US energy policy on deforestation rates using custom built Google Earth API Script.</p>',
   logo: 'logo3.png'}
 - {avatar: 'face-teleject.jpg',
   name: 'Cleatus Cassidy',
