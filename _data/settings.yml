@@ -79,7 +79,7 @@ clients:
 - {avatar: 'face-aaroni.jpg',
   name: 'Founder, Recording Artist',
   title: '2012 - Present, Atlanta, GA.',
-  quote: "<p>Founded Regeneration Records, a non-profit record label that raises funds for cancer survivors.</p>",
+  quote: "<p>Founded Regeneration Records, a non-profit record label that raises funds for cancer survivors.</p><p>Coordinated the release of two albums and three EPs, including writing, recording, and producing a personal solo album.</p>",
   logo: 'logo1.png'}
 - {avatar: 'face-atariboy.jpg',
   name: 'General Manager',
@@ -94,7 +94,7 @@ clients:
 - {avatar: 'face-teleject.jpg',
   name: 'Cleatus Cassidy',
   title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+  quote: "<p>Partnered with the Leauge of Women Voters to use design to increase Houston's voter turnout rates.</p><p>Created a public opinion polling experience for Houston's disenfranchised populations.</p><p>Designed, prototyped, and tested a series of infographics on drink coasters to increase voter turnout.</p>",
   logo: 'logo4.png'}
 
 
