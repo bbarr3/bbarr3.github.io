@@ -76,7 +76,7 @@ projects:
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
+- {avatar: 'face1.png',
   name: 'Research and Development Intern',
   title: '2011 - 2013 | Atlanta, GA.',
   quote: "<p>Evaluated the energy efficiency of Coca-Cola vending machines and recommended a series of improvements with the potential to save more than $76,000,000 per year in energy costs.</p><p>Worked on a team to design a method for recycling phosphates from agricultural water pollutants back into fertilizers.</p><p>Designed and tested a novel photobioreactor for algal-based biofuels.</p>",
