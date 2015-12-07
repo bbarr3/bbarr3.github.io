@@ -39,10 +39,10 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Brian specializes in making things** that bring communitites together.
+  **Brian specializes in making things** that bring communities together.
   Most of the things he makes are [physical products](http://datadesignco.com){:target="_blank"},
   but he also puts effort into crafting [carefully written tunes](http://regenerationrecords.com){:target="_blank"}
-  and [fixing bicycles](http://bikes.rice.edu){:target="_blank"}. Brian was born and raised in Atlanta, GA but is
+  and [fixing bicycles](http://bikes.rice.edu){:target="_blank"}. Brian was born and raised in Atlanta, GA and is
   currently a junior at Rice University in Houston, TX studying Chemical Engineering. He finds design far more interesting.
 
 
@@ -67,7 +67,7 @@ projects:
 - {name: Fed Up App, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Wide Awake Dreaming, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Georgia Tech Research Institute, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Rapid Protyping Projects, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Rapid Prototyping Projects, folder: 'proj-8', file: 'work/proj-8.html'}
 
 
 
@@ -79,7 +79,7 @@ clients:
 - {avatar: 'face6.png',
   name: 'Cofounder, Designer',
   title: '2015 - Present | Houston, TX',
-  quote: "<p>Founded a product design firm that creates household objects imbued with data.</p><p>Responsible for designing, prototyping, and negotiating rates with local manufactures for production of three products to date.</p><p>Maintains a web presence that reaches hundreds of unique visitors per week.</p>",
+  quote: "<p>Founded a product design firm that creates household objects imbued with data.</p><p>Responsible for designing, prototyping, and negotiating rates with local manufacturers for production of three products to date.</p><p>Maintains a web presence that reaches hundreds of unique visitors per week.</p>",
   logo: 'logo6.png'}
 - {avatar: 'face5.png',
   name: 'Design Intern',
