@@ -15,3 +15,5 @@ These plexiglass coasters can be used traditionally to hold your drink. Each coa
 These coasters live in a stand that orients them vertically. When held up to the eye the concentric city outlines allow the viewer to look through time and see the expansion of the city. The stand is also laser cut and assembles via snap fitting.
 
 ![Houston Coasters](assets/img/work/proj-4/img3.gif)
+
+For more infomation, visit [Data Design Co_](datadesignco.com).
