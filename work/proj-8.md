@@ -20,8 +20,7 @@ For my midterm, I researched and laser cut a model of a clock designed by Galile
 
 ### 3D Printing
 
-Text about magic 8 balls!
+When tasked with creating an object that could only be manufactured using a 3D Printer, I chose to design a version of the Magic 8 Ball. Essentially a die with Yes, No, and Maybe printed on it inside of a sphere, the die is much larger than the viewing hole in the top of the sphere. This feat is only possible if the die was actually built inside of the sphere, which it was.
 
 ### Molding & Casting
 
-Text about molding and casting.
