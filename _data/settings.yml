@@ -62,7 +62,7 @@ skills:
 projects:
 - {name: Three-Bike Bike Rack for METRO Buses, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: The Coaster Campaign, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Voter Registration Jar Opener, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Rice Bikes, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: Sprawl Series Coasters, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Fed Up App, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Wide Awake Dreaming, folder: 'proj-6', file: 'work/proj-6.html'}
@@ -94,7 +94,7 @@ clients:
 - {avatar: 'face3.png',
   name: 'General Manager',
   title: '2013 - Present | Houston, TX',
-  quote: '<p>Expanded student-run bike shop from 6 employees to 15 while growing revenue from $16,000 to $36,000 per year.</p><p>Managed a change in location and business model to ensure profitability and growth for years to come.</p><p>Built and repaired hundreds of bicycles per year as well as maintained a fleet of more than 35 rental bicycles.</p>',
+  quote: '<p>Expanded student-run bike shop from 6 employees to 15 while growing revenue from $16,000 to $36,000 per year.</p><p>Redesigned our business model and managed a change in location to ensure profitability and growth for years to come.</p><p>Built and repaired hundreds of bicycles per year as well as maintained a fleet of more than 35 rental bicycles.</p>',
   logo: 'logo3.png'}
 - {avatar: 'face2.png',
   name: 'Founder, Recording Artist',
