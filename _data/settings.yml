@@ -94,12 +94,12 @@ clients:
 - {avatar: 'face4.png',
   name: 'Summer Intern',
   title: '2014 | Washington, DC',
-  quote: '<p>Redesigned a portion of the EPA.gov site to increase accessibility and transparency of information.</p><p>Measured impact of US energy policy on deforestation rates using custom built Google Earth API Script.</p>',
+  quote: '<p>Redesigned a portion of the EPA.gov site to increase accessibility and transparency of information.</p><p>Measured impact of US energy policy on South American deforestation rates using custom built Google Earth API Script.</p>',
   logo: 'logo4.png'}
 - {avatar: 'face5.png',
   name: 'Design Intern',
   title: '2015 | Houston, TX',
-  quote: "<p>Partnered with the League of Women Voters to use design to increase Houston's voter turnout rates.</p><p>Created a public opinion polling experience for Houston's disenfranchised populations.</p><p>Designed, prototyped, and tested a series of infographics on drink coasters to increase voter turnout.</p>",
+  quote: "<p>Partnered with the League of Women Voters to use design thinking to increase Houston's voter turnout rates.</p><p>Created a public opinion polling experience for Houston's disenfranchised populations.</p><p>Designed, prototyped, and tested a series of infographics on drink coasters to increase voter turnout.</p>",
   logo: 'logo5.png'}
 - {avatar: 'face6.png',
   name: 'Cofounder, Designer',
