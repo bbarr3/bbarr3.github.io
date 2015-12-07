@@ -6,15 +6,17 @@ In the fall of 2014 I took a course in Rapid Prototyping and Fabrication at Rice
 
 This is a sample of my coursework.
 
-# Plasma Cutting
+### Plasma Cutting
 
 This is a plasma cut nameplate that was cut flat and then bent into shape. It has been brushed with emery cloth and sprayed with a clear lacquer to keep it clean of fingerprints.
 
-![Plasma Cut Nameplate](assets/img/work/proj-1/img2.jpg)
+![Plasma Cut Nameplate](assets/img/work/proj-8/img2.jpg)
 
-## Laser Cutting
+### Laser Cutting
 
-Text about laser cutting a clock.
+For my midterm, I researched and laser cut a model of a clock designed by Galileo. It keeps time, although not as well as Galileo's did.
+
+![Galileo Clock](assets/img/work/proj-8/img1.jpg)
 
 ### 3D Printing
 
