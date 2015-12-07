@@ -63,7 +63,7 @@ projects:
 - {name: Three-Bike Bike Rack for METRO Buses, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: The Coaster Campaign, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Voter Registration Jar Opener, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Sprawl Coasters, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Sprawl Series Coasters, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Fed Up App, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Wide Awake Dreaming, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Georgia Tech Research Institute, folder: 'proj-7', file: 'work/proj-7.html'}
@@ -79,7 +79,7 @@ clients:
 - {avatar: 'face1.png',
   name: 'Research and Development Intern',
   title: '2011 - 2013 | Atlanta, GA.',
-  quote: "<p>Evaluated the energy efficiency of Coca-Cola vending machines and recommended a series of improvements with the potential to save more than $76,000,000 per year in energy costs.</p><p>Worked on a team to design a method for recycling phosphates from agricultural water pollutants back into fertilizers.</p><p>Designed and tested a novel photobioreactor for algal-based biofuels.</p>",
+  quote: "<p>Evaluated the energy efficiency of vending machines for a large beverage company and recommended a series of improvements with the potential to save more than $76,000,000 per year in energy costs.</p><p>Worked on a team to design a method for recycling phosphates from agricultural water pollutants back into fertilizers.</p><p>Designed and tested a novel photobioreactor for algal-based biofuels.</p>",
   logo: 'logo1.png'}
 - {avatar: 'face2.png',
   name: 'Founder, Recording Artist',
