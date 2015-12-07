@@ -9,8 +9,8 @@ email: brian.barr47@gmail.com
 
 menu:
 - {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
+- {name: Portfolio, url: '#portfolio'}
+- {name: Work Experience, url: '#work-experience'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
@@ -79,12 +79,12 @@ clients:
 - {avatar: 'face6.png',
   name: 'Cofounder, Designer',
   title: '2015 - Present | Houston, TX',
-  quote: "<p>Built a product design firm creating household objects imbued with data to augment lack of design program.</p><p>Designed, manufactured, and released three products to date with a fourth upcoming.</p>",
+  quote: "<p>Founded a product design firm that creates household objects imbued with data.</p><p>Responsible for designing, prototyping, and negotiating rates with local manufactures for production of three products to date.</p><p>Maintains a web presence that reaches hundreds of unique visitors per week.</p>",
   logo: 'logo6.png'}
 - {avatar: 'face5.png',
   name: 'Design Intern',
   title: '2015 | Houston, TX',
-  quote: "<p>Partnered with the League of Women Voters to use design thinking to increase Houston's voter turnout rates.</p><p>Created a public opinion polling experience for Houston's disenfranchised populations.</p><p>Designed, prototyped, and tested a series of infographics on drink coasters to increase voter turnout.</p>",
+  quote: "<p>Increased Houston's voter turnout rate by partnering with the League of Women Voters on a series of design projects.</p><p>Created a public opinion polling experience for Houston's disenfranchised populations.</p><p>Designed, prototyped, and tested a series of infographics on drink coasters to increase voter turnout.</p>",
   logo: 'logo5.png'}
 - {avatar: 'face4.png',
   name: 'Summer Intern',
@@ -94,7 +94,7 @@ clients:
 - {avatar: 'face3.png',
   name: 'General Manager',
   title: '2013 - Present | Houston, TX',
-  quote: '<p>Grew student-run bike shop from 6 employees to 15 while growing revenue from $16,000 to $36,000 per year.</p><p>Managed a change in location and business model to ensure profitability and growth for years to come.</p><p>Built and repaired hundreds of bicycles per year as well as maintained a fleet of more than 35 rental bicycles.</p>',
+  quote: '<p>Expanded student-run bike shop from 6 employees to 15 while growing revenue from $16,000 to $36,000 per year.</p><p>Managed a change in location and business model to ensure profitability and growth for years to come.</p><p>Built and repaired hundreds of bicycles per year as well as maintained a fleet of more than 35 rental bicycles.</p>',
   logo: 'logo3.png'}
 - {avatar: 'face2.png',
   name: 'Founder, Recording Artist',
@@ -104,7 +104,7 @@ clients:
 - {avatar: 'face1.png',
   name: 'Research and Development Intern',
   title: '2011 - 2013 | Atlanta, GA.',
-  quote: "<p>Evaluated the energy efficiency of vending machines for a large beverage company and recommended a series of improvements with the potential to save more than $76,000,000 per year in energy costs.</p><p>Worked on a team to design a method for recycling phosphates from agricultural water pollutants back into fertilizers.</p><p>Designed and tested a novel photobioreactor for algal-based biofuels.</p>",
+  quote: "<p>Experimentally determined the energy efficiency of vending machines for a large beverage company and recommended a series of improvements with the potential to save more than $76,000,000 per year in energy costs.</p><p>Worked on a team to design a method for recycling phosphates from agricultural water pollutants back into fertilizers.</p><p>Designed and tested a novel photobioreactor for algal-based biofuels.</p>",
   logo: 'logo1.png'}
 
 #-------------------------------
