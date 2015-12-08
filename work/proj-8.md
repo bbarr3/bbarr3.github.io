@@ -2,13 +2,15 @@
 title: "Rapid Prototyping and Fabrication"
 ---
 
-In the fall of 2014 I took a course on Rapid Prototyping and Fabrication at Rice University. Over the course of the semester we covered sketching, lo-fidelity prototyping, CAD modeling, laser cutting, 3D printing, molding and casting, CNC milling, and plasma cutting.
+Fall, 2014
+
+I took a course on Rapid Prototyping and Fabrication at Rice University known as Engineering 210. Over the course of a semester we covered sketching, lo-fidelity prototyping, CAD modeling, laser cutting, 3D printing, molding and casting, CNC milling, and plasma cutting.
 
 This is a sample of my coursework.
 
 ### Plasma Cutting
 
-This is a plasma cut nameplate that was cut flat and then bent into shape. It has been brushed with emery cloth and sprayed with a clear lacquer to keep it clean of fingerprints.
+This is a plasma cut nameplate that was cut flat and then bent into shape. It has been brushed with emery cloth and sprayed with a clear lacquer to keep it clear of fingerprints.
 
 ![Plasma Cut Nameplate](assets/img/work/proj-8/img2.jpg)
 

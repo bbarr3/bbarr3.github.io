@@ -48,8 +48,8 @@ blurb: >
 
 skills:
 - {name: Communication, value: '9'}
-- {name: Organization, value: '7'}
-- {name: Learning, value: '10'}
+- {name: Curiosity, value: '7'}
+- {name: Teachability, value: '10'}
 - {name: Rapid Prototyping, value: '8'}
 - {name: Planning, value: '7'}
 - {name: Visual Design, value: '5'}

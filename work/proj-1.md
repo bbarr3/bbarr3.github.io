@@ -1,13 +1,16 @@
 ---
 title: Three-Bike Rack for METRO Buses
 ---
-In the fall of 2013 I worked with a team of Rice University freshmen and the Houston METRO to develop a bicycle rack for the front of METRO buses. Houston is one of the least dense cities in the United States, and as a result many Houstonians do not live within walking distance of a bus stop. To combat this, we designed a modular, folding bicycle rack that would allow riders to bike to the nearest bus stop and then bring the bike with them while taking the bus.
+
+Fall, 2013
+
+I worked with a team of Rice University freshmen and the Houston METRO, Houston's mass transit system, to develop a bicycle rack for the front of METRO buses. Houston is one of the least dense cities in the United States, and as a result many Houstonians do not live within walking distance of a bus stop. To combat this, we designed a modular, folding bicycle rack that would allow riders to bike to the nearest bus stop and then bring the bike with them while taking the bus.
 
 ![METRO Bus](assets/img/work/proj-1/img1.jpg)
 
-To tackle this issue, we researched the current system extensively before brainstorming and eventually prototyping. We spent several hours on METRO buses interviewing riders in addition to traveling to the bus depot to gain insights from the METRO mechanics on common problems with the current bike rack system. From there we brainstormed ideas on notecards before screening and scoring the concepts using a Pugh Matrix. Eventually we settled on a collapsible system that would keep the rack from hampering the turning radius of the bus.
+We researched the current system extensively before brainstorming and eventually prototyping. We spent several hours on METRO buses interviewing riders in addition to traveling to the bus depot to gain insights from the METRO mechanics on common problems with the current bike rack system. From there we brainstormed ideas on notecards before screening and scoring the concepts using a Pugh Matrix. Eventually we settled on a collapsible system that would keep the rack from hampering the turning radius of the bus.
 
-Our first prototype was made from K'nex, a childrens toy. The second prototype was made from PVC, and our third was made using steel and 3D printed plastic for handles.
+Our first prototype was made from K'nex, a children's toy. The second prototype was made from PVC, and our third was made using steel and 3D printed plastic for handles.
 
 ![Knex Prototype](assets/img/work/proj-1/img2.jpg)
 ![PVC Prototype](assets/img/work/proj-1/img3.jpg)
