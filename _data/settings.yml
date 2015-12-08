@@ -52,7 +52,7 @@ skills:
 - {name: Learning, value: '10'}
 - {name: Rapid Prototyping, value: '8'}
 - {name: Project Management, value: '7'}
-- {name: Visual Design, value: '5'}
+- {name: Visual Design, value: '6'}
 - {name: Guitar Solos, value: '8'}
 - {name: Bike Repair, value: '9'}
 
@@ -79,7 +79,7 @@ clients:
 - {avatar: 'face6.png',
   name: 'Cofounder, Designer',
   title: '2015 - Present | Houston, TX',
-  quote: "<p>Founded a product design firm that creates household objects imbued with data.</p><p>Responsible for designing, prototyping, and negotiating rates with local manufacturers for production of three products to date.</p><p>Maintains a web presence that reaches hundreds of unique visitors per week.</p>",
+  quote: "<p>Founded a product design firm that creates household objects imbued with data.</p><p>Designed, prototyped, and negotiated rates with local manufacturers for production of three products to date.</p><p>Maintains a web presence that reaches hundreds of unique visitors per week.</p>",
   logo: 'logo6.png'}
 - {avatar: 'face5.png',
   name: 'Design Intern',
@@ -111,7 +111,7 @@ clients:
 # Contact Section
 
 social:
-- {icon: 'linkedin', link: 'https://www.linkedin.com/pub/brian-barr/99/3a2/687'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/brian-barr-6873a299'}
 - {icon: 'twitter', link: 'https://twitter.com/raising_thebarr'}
 - {icon: 'soundcloud', link: 'https://soundcloud.com/regeneration-records'}
 - {icon: 'instagram', link: 'https://instagram.com/brian.barr'}
