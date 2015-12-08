@@ -3,7 +3,7 @@
 
 title: Brian Barr
 description: Thinker // Designer // Citizen
-email: brian.barr47@gmail.com
+email: brian@briancbarr.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -31,7 +31,7 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-#google-analytics-ua: UA-XXXXXX-X
+google-analytics-ua: UA-71179236-1
 
 #-------------------------------
 # About Section
