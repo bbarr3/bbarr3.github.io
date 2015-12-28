@@ -44,7 +44,7 @@ function workBelt() {
   $('.work-return2').click(function() {
     $('html, body').animate({
         scrollTop: $("#work").offset().top
-    }, 800);
+    }, 600);
     $('.work-belt').removeClass("slided");
     $('.work-container').hide(800);
   });
