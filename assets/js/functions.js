@@ -65,6 +65,7 @@ function  workLoad() {
       
     $('.project-load').html(spinner).load(newHTML);
     $('.project-title').text(newTitle);
+    $('.project-title2').text("Return To Porfolio");
   });
   
 }
