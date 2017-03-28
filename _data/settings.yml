@@ -41,9 +41,9 @@ google-analytics-ua: UA-71179236-1
 blurb: >
   **Brian specializes in making things** that bring communities together.
   Most of the things he makes are [physical products](http://datadesignco.com){:target="_blank"},
-  but he also puts effort into crafting [carefully written tunes](http://regenerationrecords.com){:target="_blank"}
+  but he also puts effort into crafting carefully written tunes
   and [fixing bicycles](http://bikes.rice.edu){:target="_blank"}. Brian was born and raised in Atlanta, GA and is
-  currently a junior at Rice University in Houston, TX studying Chemical Engineering. He finds design far more interesting.
+  currently a senior at Rice University in Houston, TX studying Chemical Engineering. He finds design far more interesting.
 
 
 skills:
@@ -52,7 +52,7 @@ skills:
 - {name: Learning, value: '10'}
 - {name: Rapid Prototyping, value: '8'}
 - {name: Project Management, value: '7'}
-- {name: Visual Design, value: '6'}
+- {name: Visual Design, value: '7'}
 - {name: Guitar Solos, value: '8'}
 - {name: Bike Repair, value: '9'}
 
@@ -79,7 +79,7 @@ clients:
 - {avatar: 'face6.png',
   name: 'Cofounder, Designer',
   title: '2015 - Present | Houston, TX',
-  quote: "<p>Founded a product design firm that creates household objects imbued with data.</p><p>Designed, prototyped, and negotiated rates with local manufacturers for production of three products to date.</p><p>Maintains a web presence that reaches hundreds of unique visitors per week.</p>",
+  quote: "<p>Founded a product design firm that creates data visualizations that double as homegoods.</p><p>Designed, prototyped, and negotiated rates with local manufacturers for production of three products to date.</p><p>Maintains a web presence that reaches hundreds of unique visitors per week.</p>",
   logo: 'logo6.png'}
 - {avatar: 'face5.png',
   name: 'Design Intern',
@@ -104,7 +104,7 @@ clients:
 - {avatar: 'face1.png',
   name: 'Research and Development Intern',
   title: '2011 - 2013 | Atlanta, GA.',
-  quote: "<p>Experimentally determined the energy efficiency of vending machines for a large beverage company and recommended a series of improvements with the potential to save more than $76,000,000 per year in energy costs.</p><p>Worked on a team to design a method for recycling phosphates from agricultural water pollutants back into fertilizers.</p><p>Designed and tested a novel photobioreactor for algal-based biofuels.</p>",
+  quote: "<p>Experimentally determined the energy efficiency of vending machines for a large beverage company and recommended a series of improvements with the potential to save more than $76MM per year in energy costs.</p><p>Worked on a team to design a method for recycling phosphates from agricultural water pollutants back into fertilizers.</p><p>Designed and tested a novel photobioreactor for algal-based biofuels.</p>",
   logo: 'logo1.png'}
 
 #-------------------------------
